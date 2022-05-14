@@ -1,5 +1,5 @@
 <h2 align='center'> <i>Hello, Folks! <img src="https://github.com/parth-tagadiya/parth-tagadiya/blob/master/wave.gif" width="30px"> I am glad to see that you've visited my profile</i> 🙂</h2> 
-## Shlok of the day 🌞
+## Shlok of the day 🌞 </br>
 "{shlok}" </br> 
 </br>
 
