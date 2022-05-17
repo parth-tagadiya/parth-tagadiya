@@ -22,8 +22,8 @@ jobs:
           git config pull.rebase false
           git pull
           git add .
-          git config --global user.name "yatinj30"
-          git config --global user.email "yatinjpatel30@gmail.com"
+          git config --global user.name "parth-tagadiya"
+          git config --global user.email "parthtagadiya9199@gmail.com"
           git commit -m "[Automated] README shlok updated!"
       - name: Push
         uses: ad-m/github-push-action@master
