@@ -1,7 +1,5 @@
 name: Dynamic VERSE injection
 on:
-  schedule:
-    - cron: "0 */60 * * MON-FRI"
   workflow_dispatch:
 
 jobs:
