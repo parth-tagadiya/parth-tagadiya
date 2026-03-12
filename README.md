@@ -1,6 +1,6 @@
 <h2 align='center'> <i>Hello, Folks! <img src="https://github.com/parth-tagadiya/parth-tagadiya/blob/master/wave.gif" width="30px"> I am glad to see that you've visited my profile</i> 🙂</h2> 
 ## Shlok of the day 🌞 </br>
-"यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिनः | प्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ ||८-२३||" </br> 
+"मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः | आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ||२-१४||" </br> 
 </br>
 
 
