@@ -1,6 +1,6 @@
 <h2 align='center'> <i>Hello, Folks! <img src="https://github.com/parth-tagadiya/parth-tagadiya/blob/master/wave.gif" width="30px"> I am glad to see that you've visited my profile</i> 🙂</h2> 
 ## Shlok of the day 🌞 </br>
-"श्रीभगवानुवाच | इमं विवस्वते योगं प्रोक्तवानहमव्ययम् | विवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् ||४-१||" </br> 
+"अदृष्टपूर्वं हृषितोऽस्मि दृष्ट्वा भयेन च प्रव्यथितं मनो मे | तदेव मे दर्शय देव रूपं प्रसीद देवेश जगन्निवास ||११-४५||" </br> 
 </br>
 
 
