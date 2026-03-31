@@ -1,6 +1,6 @@
 <h2 align='center'> <i>Hello, Folks! <img src="https://github.com/parth-tagadiya/parth-tagadiya/blob/master/wave.gif" width="30px"> I am glad to see that you've visited my profile</i> 🙂</h2> 
 ## Shlok of the day 🌞 </br>
-"गुणानेतानतीत्य त्रीन्देही देहसमुद्भवान् | जन्ममृत्युजरादुःखैर्विमुक्तोऽमृतमश्नुते ||१४-२०||" </br> 
+"अत्र शूरा महेष्वासा भीमार्जुनसमा युधि | युयुधानो विराटश्च द्रुपदश्च महारथः ||१-४||" </br> 
 </br>
 
 
