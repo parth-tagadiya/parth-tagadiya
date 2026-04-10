@@ -1,6 +1,6 @@
 <h2 align='center'> <i>Hello, Folks! <img src="https://github.com/parth-tagadiya/parth-tagadiya/blob/master/wave.gif" width="30px"> I am glad to see that you've visited my profile</i> 🙂</h2> 
 ## Shlok of the day 🌞 </br>
-"न हि ज्ञानेन सदृशं पवित्रमिह विद्यते | तत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति ||४-३८||" </br> 
+"महर्षयः सप्त पूर्वे चत्वारो मनवस्तथा | मद्भावा मानसा जाता येषां लोक इमाः प्रजाः ||१०-६||" </br> 
 </br>
 
 
